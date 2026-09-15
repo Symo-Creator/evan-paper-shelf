@@ -1,0 +1,82 @@
+[
+  {
+    "id": "seed-markets-whales",
+    "title": "Growth Sectors & Whales 2026\u20132036",
+    "subject": "Markets",
+    "file": "papers/growth-sectors-whales-2026-2036-phone.pdf",
+    "badge": "phone",
+    "seed": true
+  },
+  {
+    "id": "seed-ilt-interview",
+    "title": "ILT Academy Interview Brief",
+    "subject": "ILT",
+    "file": "papers/ilt-academy-interview-brief.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-ilt-partner",
+    "title": "ILT Partner / EDO Prospects",
+    "subject": "ILT",
+    "file": "papers/ilt-partner-edo-prospects.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-venom",
+    "title": "How to Play VENOM",
+    "subject": "Games",
+    "file": "papers/How-to-Play-VENOM.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-agency",
+    "title": "Website Agency Pipeline Playbook",
+    "subject": "Agency",
+    "file": "papers/website-agency-pipeline-playbook.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-profiling",
+    "title": "People Profiling Research Paper",
+    "subject": "Psychology",
+    "file": "papers/people-profiling-research-paper.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-persuasion",
+    "title": "Persuasion (Simple)",
+    "subject": "Persuasion",
+    "file": "papers/Persuasion-Simple.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-money",
+    "title": "Evan Education Money Easy",
+    "subject": "Money",
+    "file": "papers/Evan-Education-Money-Easy.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-isu",
+    "title": "ISU Scholarships Research Report",
+    "subject": "School",
+    "file": "papers/isu-scholarships-research-report.pdf",
+    "badge": "letter",
+    "seed": true
+  },
+  {
+    "id": "seed-national-ed",
+    "title": "National Education Money Research Report",
+    "subject": "School",
+    "file": "papers/national-education-money-research-report.pdf",
+    "badge": "letter",
+    "seed": true
+  }
+]
