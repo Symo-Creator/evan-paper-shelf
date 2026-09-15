@@ -13,7 +13,7 @@ Open `http://127.0.0.1:8765/` — fine for testing. **Not** the NFC URL (LAN/loc
 
 ## Public HTTPS (NFC record)
 
-See `NFC.md` for the live URL once deployed (GitHub Pages / Netlify / Cloudflare Pages). That HTTPS home URL is what you write to the tag.
+Live NFC URL: `https://symo-creator.github.io/evan-paper-shelf/` — also in `NFC.md`.
 
 ## Offline
 

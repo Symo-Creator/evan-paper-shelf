@@ -3,7 +3,7 @@
 ## Public HTTPS URL (write this to the tag)
 
 ```
-PLACEHOLDER_HTTPS_URL
+https://symo-creator.github.io/evan-paper-shelf/
 ```
 
 **Must be HTTPS.** LAN IPs and `localhost` fail for NFC at work.
